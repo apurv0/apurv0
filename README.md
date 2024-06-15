@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @apurv0
-- 👀 I’m interested in webDev
-- 🌱 I’m currently learning JS HTML5 CSS
+- 👀 I’m interested in Devops
 - 💞️ I’m looking to collaborate on Learning projects and anyhting then can help me sharpen my skills
 - 📫 How to reach me ... apurvpatel844@gmail.com
 
